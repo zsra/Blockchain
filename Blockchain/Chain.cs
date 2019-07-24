@@ -7,7 +7,7 @@ namespace Blockchain
     /// <summary>
     /// The <see cref="Chain"/> class contains <see cref="Blockchain"/> 
     /// , methods to valid the Chain (<see cref="IsChainValid"/>)
-    /// and Operators methods.
+    /// and Operator methods.
     /// </summary>
     public static class Chain
     {
