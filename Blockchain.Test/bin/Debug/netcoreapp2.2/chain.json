@@ -1,0 +1,107 @@
+﻿[
+  {
+    "Hash": "0A7375F8658CDF6A66ABD1BC63E5A3DFC93A55B305E1076BF196092DBE2F9786",
+    "PreviousHash": "0",
+    "Data": {
+      "Id": "14aa8c87aa124d71b2a243375e307b52",
+      "Person": {
+        "Id": "b61c560f12ff48b8b80acbdef25bc442",
+        "Name": "",
+        "Address": "",
+        "Birthdate": "2019-07-24T10:37:12.3135759+02:00"
+      },
+      "Wallet": {
+        "Id": "9e7d0ddda7f940b69d9ad5c35243ae09",
+        "Balance": 10.0,
+        "Created": "2019-07-24T10:37:12.3142898+02:00"
+      }
+    },
+    "Created": 1563957432315,
+    "Nonce": 9,
+    "Difficult": 1
+  },
+  {
+    "Hash": "0020FE0D673771F66C2FC775356E844E72C6AA4619FDFAFB1ED00D7A597C9350",
+    "PreviousHash": "0A7375F8658CDF6A66ABD1BC63E5A3DFC93A55B305E1076BF196092DBE2F9786",
+    "Data": {
+      "Id": "f7dd7ecb4ba74ea2b60a929b3935923d",
+      "Person": {
+        "Id": "3aa0f4cb6ddc46529465b9ce787a349c",
+        "Name": "Monroe Jamal",
+        "Address": "Budapest",
+        "Birthdate": "1979-01-21T00:00:00"
+      },
+      "Wallet": {
+        "Id": "2096065ea35547bf98eb4112dee6a34a",
+        "Balance": 0.0,
+        "Created": "2019-07-24T10:37:12.3146101+02:00"
+      }
+    },
+    "Created": 1563957432357,
+    "Nonce": 276,
+    "Difficult": 2
+  },
+  {
+    "Hash": "000E8605A98BFB73E3FD6D308C5DB934BCCC12DA0B722EDE0F40235DF7D86366",
+    "PreviousHash": "0020FE0D673771F66C2FC775356E844E72C6AA4619FDFAFB1ED00D7A597C9350",
+    "Data": {
+      "Id": "83192465ff684cd0b96695d6d7374526",
+      "Person": {
+        "Id": "60193b02c0d741a084ac7a5a39862fb5",
+        "Name": "Wood Dario",
+        "Address": "Debrecen",
+        "Birthdate": "1997-04-02T00:00:00"
+      },
+      "Wallet": {
+        "Id": "f1a55ad246cf40f8b6570c0904f35957",
+        "Balance": 10.0,
+        "Created": "2019-07-24T10:37:12.3146144+02:00"
+      }
+    },
+    "Created": 1563957432364,
+    "Nonce": 2046,
+    "Difficult": 3
+  },
+  {
+    "Hash": "00006C6E1A3223BC7B3EBA0E5F9F5E57B7103F960F707463EB9C361F0082EA50",
+    "PreviousHash": "000E8605A98BFB73E3FD6D308C5DB934BCCC12DA0B722EDE0F40235DF7D86366",
+    "Data": {
+      "Id": "9c3b08c4abcc4ea7919ee2b27e578451",
+      "Person": {
+        "Id": "d5d5e9da28b6449b9a6fc82ed83ad2a3",
+        "Name": "Weiss Ella",
+        "Address": "Debrecen",
+        "Birthdate": "1993-10-10T00:00:00"
+      },
+      "Wallet": {
+        "Id": "6920be92234e42e28fb8827a62f6e2f5",
+        "Balance": 0.0,
+        "Created": "2019-07-24T10:37:12.3146167+02:00"
+      }
+    },
+    "Created": 1563957432397,
+    "Nonce": 173653,
+    "Difficult": 4
+  },
+  {
+    "Hash": "0000020111A894472D1D79A8D74E783EE6F97E0E0C02C4D786D3379A7DC6DD28",
+    "PreviousHash": "00006C6E1A3223BC7B3EBA0E5F9F5E57B7103F960F707463EB9C361F0082EA50",
+    "Data": {
+      "Id": "de4823799dd14b739dc0593454616350",
+      "Person": {
+        "Id": "6a9c9bae9a804cf1906cb728bb840ff4",
+        "Name": "Patricia T. Smith",
+        "Address": "Pécs",
+        "Birthdate": "1999-02-07T00:00:00"
+      },
+      "Wallet": {
+        "Id": "04b84378561c4bb4ae664364f1d31c31",
+        "Balance": 0.0,
+        "Created": "2019-07-24T10:37:12.3146182+02:00"
+      }
+    },
+    "Created": 1563957434710,
+    "Nonce": 243680,
+    "Difficult": 5
+  }
+]

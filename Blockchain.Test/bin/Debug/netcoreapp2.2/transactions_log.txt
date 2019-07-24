@@ -1,0 +1,20 @@
+﻿[07/24/2019 9:32:44 AM] - Uploader:	f90806a0b8824b4ebf255afbff28fa1c - amount:	10
+[07/24/2019 9:35:35 AM] - Uploader: 369172c9aa514fbebd5ba2b9336192f0 - amount: 10
+[07/24/2019 9:35:35 AM] - Withdrawer: 369172c9aa514fbebd5ba2b9336192f0 - amount: -10
+[07/24/2019 9:39:26 AM] - Uploader: ce5f6b678ff04682935b67c57a3d8f19 - amount: 10 balance: 10.0
+[07/24/2019 9:39:26 AM] - Withdrawer: ce5f6b678ff04682935b67c57a3d8f19 - amount: -10 balance: 0.0
+[07/24/2019 10:32:01 AM] - Uploader: 436c1f13cd3b4386a203ef733904a061 - amount: 10 balance: 40.0
+[07/24/2019 10:32:02 AM] - Withdrawer: 436c1f13cd3b4386a203ef733904a061 - amount: -10 balance: 10.0
+[07/24/2019 10:32:02 AM] - sender: 2e431d98cbd945f2ae51bedbe39b5d91 - reciever: b27d194d4e434049a2fa0880408de001 - amount: 20
+[07/24/2019 10:32:30 AM] - Uploader: e15f9ca888544bde999e037c92d18bf7 - amount: 10 balance: 40.0
+[07/24/2019 10:32:30 AM] - Withdrawer: e15f9ca888544bde999e037c92d18bf7 - amount: -10 balance: 10.0
+[07/24/2019 10:32:30 AM] - sender: de00931cfff44f0c83f13d091012f0db - reciever: 5282db8b29484b59862b01bc9cdcb8f0 - amount: 20
+[07/24/2019 10:35:35 AM] - Uploader: 78a956bcc05f4ab897e699349c15505b - amount: 10 balance: 40.0
+[07/24/2019 10:35:35 AM] - Withdrawer: 78a956bcc05f4ab897e699349c15505b - amount: -10 balance: 10.0
+[07/24/2019 10:35:35 AM] - sender: ec6c19e9f1924f8dacbf951c5af1c30f - reciever: de06f294b57b44b18c4f1b574e736611 - amount: 20
+[07/24/2019 10:37:00 AM] - Uploader: b9a639ccd121472b8c764081a2781225 - amount: 10 balance: 40.0
+[07/24/2019 10:37:00 AM] - Withdrawer: b9a639ccd121472b8c764081a2781225 - amount: -10 balance: 10.0
+[07/24/2019 10:37:00 AM] - sender: 0f0a255e45f34fa2878ff8acb5ef5efa - reciever: 2da7437c8a6849a99da31c3ab13328ad - amount: 20
+[07/24/2019 10:37:17 AM] - Uploader: 14aa8c87aa124d71b2a243375e307b52 - amount: 10 balance: 40.0
+[07/24/2019 10:37:17 AM] - Withdrawer: 14aa8c87aa124d71b2a243375e307b52 - amount: -10 balance: 10.0
+[07/24/2019 10:37:17 AM] - sender: 3aa0f4cb6ddc46529465b9ce787a349c - reciever: 60193b02c0d741a084ac7a5a39862fb5 - amount: 20

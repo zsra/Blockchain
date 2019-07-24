@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Test\\Blockchain.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Functions\\Blockchain.Functions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Functions\\Blockchain.Functions.csproj",
+        "projectName": "Blockchain.Functions",
+        "projectPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Functions\\Blockchain.Functions.csproj",
+        "packagesPath": "C:\\Users\\Black\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Functions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Black\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\Blockchain.csproj": {
+                "projectPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\Blockchain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Test\\Blockchain.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Test\\Blockchain.Test.csproj",
+        "projectName": "Blockchain.Test",
+        "projectPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Test\\Blockchain.Test.csproj",
+        "packagesPath": "C:\\Users\\Black\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Black\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Functions\\Blockchain.Functions.csproj": {
+                "projectPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain.Functions\\Blockchain.Functions.csproj"
+              },
+              "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\Blockchain.csproj": {
+                "projectPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\Blockchain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\Blockchain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\Blockchain.csproj",
+        "projectName": "Blockchain",
+        "projectPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\Blockchain.csproj",
+        "packagesPath": "C:\\Users\\Black\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Black\\source\\repos\\BlockChain\\Blockchain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Black\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
